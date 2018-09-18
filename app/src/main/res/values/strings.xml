@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PrimerKotlin</string>
+    <string name="welcome">Bienvenido: %s</string>
+</resources>
